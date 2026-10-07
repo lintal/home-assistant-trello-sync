@@ -1,0 +1,13 @@
+{
+  "domain": "trello_sync",
+  "name": "Trello Sync",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/lintal/home-assistant-trello-sync",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/lintal/home-assistant-trello-sync/issues",
+  "loggers": ["custom_components.trello_sync"],
+  "requirements": ["requests==2.32.3"],
+  "version": "0.1.0"
+}

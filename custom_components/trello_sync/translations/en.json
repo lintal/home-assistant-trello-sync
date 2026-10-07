@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect Trello",
+        "data": {
+          "api_key": "API key",
+          "api_token": "API token",
+          "board_id": "Board ID"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Could not validate the Trello credentials."
+    }
+  }
+}
